@@ -1,4 +1,4 @@
-# Scroll Navigation Page
+# landing page
 
 This is a simple single-page application built with **Next.js**.
 
@@ -6,10 +6,6 @@ It contains three sections:
 - Home
 - About
 - Contact
-
-The navigation bar allows users to scroll to different sections of the page.
-
----
 
 ## Getting Started
 
